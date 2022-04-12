@@ -1,0 +1,39 @@
+:root {}
+
+* {background-color: grey;}
+
+.main-title{
+    color:purple;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    text-align:center
+    }
+.page-info{
+    text-align:center;
+    color:white
+}
+
+
+
+.card{
+    color:white;
+    background-color: purple;
+    justify-content: space-between;
+    align-items: center;
+    border: dashed 4px #000;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 15px;
+    margin: 5px
+ 
+}
+.title {}
+.description{}
+
+footer {
+    text-align:center;
+    color:white;
+    font-weight: 400;
+    font-family:'Courier New', Courier, monospace
+}
