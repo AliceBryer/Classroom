@@ -14,21 +14,35 @@
     color:white
 }
 
+.allcards {
+   margin-left: 10px;
+   margin-right: 10px;
+   
+}
 
 
 .card{
     color:white;
+    width: 250px;
+    height: 200px;
     background-color: purple;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: center;
     border: dashed 4px #000;
     padding: 20px;
     display: inline-block;
     border-radius: 15px;
-    margin: 5px
+    margin: 10px;
+    flex-wrap: wrap;
+
  
 }
-.title {}
+.title {
+   border: solid black 5px;
+   position:relative;
+   top:-55px
+
+    
+}
 .description{}
 
 footer {
