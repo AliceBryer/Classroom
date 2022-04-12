@@ -33,14 +33,14 @@
     border-radius: 15px;
     margin: 10px;
     flex-wrap: wrap;
-
- 
 }
+
+
 .title {
    border: solid black 5px;
    position:relative;
-   top:-55px
-
+   top:-55px;
+}
     
 }
 .description{}
