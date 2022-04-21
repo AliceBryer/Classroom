@@ -6,3 +6,13 @@
 // store the values of wins, losses and ties 
 
 // Hint :: alert(), confirm(), and prompt()
+
+
+const max (first,second) => {
+  if(first>second)
+  
+  console.log (first)
+}
+else {
+console.log (second)
+}
